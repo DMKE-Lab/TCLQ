@@ -1,4 +1,4 @@
-#TCLQ
+# TCLQ #
 ## Installation ##
 
 The dependencies can be installed via either conda or pip. TCLQ is compatible
